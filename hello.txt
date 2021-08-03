@@ -4,3 +4,5 @@ hello,wxj!hello,git!
 yy,esc!=ctrl+c;
 p=ctrljjenni+v;
 djjjsp=ctrl+v;
+.ssh xieyilianjie
+mianmidenglu
